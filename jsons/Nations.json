@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Nautipolus",
+		"leaderName": "Zulong Hamsworn",
+		"adjective": ["Marine"],
+		"startBias": ["Coastal"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Welcome to Nautipolus My friend Come enjoy our Aquatic Presence",
+		"startIntroPart2": "What you don't eat Sea Slugs oh right you live on land my apologies but they are a Delicacy",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",

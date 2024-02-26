@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Submarines",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"replaces": "Privateer",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"requiredTech": "Navigation",
+		"promotions": ["Coastal Rider I","Besiege"],
 		"attackSound": "phasers"
 	}
 ]
